@@ -1,4 +1,4 @@
-#Git check Jenkins library
+//Git check Jenkins library
 def call() {
   echo "This is a gitcheck out shared library"
 }
